@@ -14,16 +14,16 @@
     background-position: center;
 }
 
-.main-img1 {
-    background-image: url('..img/wood-2.jpg')
+.main_img1 {
+    background-image: url('../img/wood-2.jpg');
 }
 
-.main-img2 {
-    background-image: url('..img/restaurant-2.jpg')
+.main_img2 {
+    background-image: url('../img/restaurant-2.jpg');
 }
 
-.main-img3 {
-    background-image: url('..img/farm-2.jpg')
+.main_img3 {
+    background-image: url('../img/farm-2.jpg');
 }
 
 .main_logo {
